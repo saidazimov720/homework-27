@@ -13,3 +13,8 @@ h2{
     margin-bottom: 20px;
 }
 
+.container{
+    max-width: 1200px;
+    margin: 100px auto;
+    padding: 0 15px;
+}
