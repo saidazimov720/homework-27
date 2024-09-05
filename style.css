@@ -31,3 +31,8 @@ h2{
     overflow: hidden;
     position: relative;
 }
+
+.slider_item img{
+    width: 600px;
+    position: relative;
+}
