@@ -43,3 +43,7 @@ h2{
     -ms-flex-direction: row;
     flex-direction: row;
 }
+.slider-horizontal .slider_item{
+    width: 25%;
+    height: 350px;
+}
