@@ -54,3 +54,8 @@ h2{
     -ms-flex-direction: column;
     flex-direction: column;
 }
+
+.slider-vertical .slider_item{
+    width: 100%;
+    height: 100px;
+}
